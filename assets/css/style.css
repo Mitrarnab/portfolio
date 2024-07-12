@@ -22278,4 +22278,8 @@ body.white-version .rn-btn-ulderline {
     .iconDesc .arr {
         padding-top: 5px;
     }
+
+    .slide .social-share-inner-left .social-share li {
+        margin: 5px 5px;
+    }
 }
