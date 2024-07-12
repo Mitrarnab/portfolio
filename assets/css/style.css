@@ -15911,6 +15911,7 @@ div#featured-project-carousel {
     height: 36px;
     line-height: 36px;
     border-radius: 6px;
+    min-width: 108px;
     background: var(--background-color-1);
     box-shadow: var(--shadow-1);
     transition: var(--transition);
